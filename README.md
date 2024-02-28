@@ -17,3 +17,7 @@ O objetivo deste projeto é criar uma aplicação com interface gráfica usando 
 
 - Conhecimento básico de Python
 - Ambiente de desenvolvimento Python configurado
+
+## Repositório
+
+- Neste repositório estará todos os códigos/exercícios do curso
